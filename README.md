@@ -6,19 +6,22 @@ Exploring DataBricks Community Edition capabilities to wrangle 1 million rows of
 
 
 **Models used in this project:**
+
 Logistic Regression
 Decision Tree
 Naive Bayes
 
-GridSearch done on:
+**GridSearch done on:**
+
 Logistic Regression
 
-Sampled GridSearch done on:
+**Sampled GridSearch done on:**
+
 Random Forest
 
 Pipeline was used for the final model
 
-Conclusions
+**Conclusions**
 - ML in Spark heavily relies on how many cores are available in the cluster
 - Tree-based algorithms are much more computationally exprensive and were not able to predict accurately due to lack of depth
 - Both linear models (LR and NB) have performed much better in this specific scenario, producing higher scores
