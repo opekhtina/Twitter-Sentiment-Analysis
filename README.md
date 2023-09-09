@@ -1,4 +1,10 @@
-Project focusing on BigData tools for Machine Learning.
+Project focusing on BigData tools for Machine Learning. 
+
+Work was mainly done in a DataBricks notebook
+
+Results were stored in AWS S3 and loaded to AWS Athena
+
+Results from Athena were loaded to QuickSIght to produce a dashboard
 
 **Overview**
 
