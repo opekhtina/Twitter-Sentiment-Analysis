@@ -8,7 +8,7 @@ Data had been previously collected from Twitter using Kinesis
 
 - There are 998362 rows of data after null values in date column had been dropped 
 - Labels are somewhat balanced, with 'negative' being a minority class at 17.5% of all data
-- 
+  
   <img width="367" alt="image" src="https://github.com/opekhtina/Twitter-Sentiment-Analysis-using-Spark-and-AWS/assets/133146847/ceee38bb-3483-4a98-99b6-8996ac0a72f5">
 
 - it seems like the more followers users have the more likely it is for the to tweet positive tweets
