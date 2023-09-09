@@ -1,7 +1,11 @@
 Project focusing on BigData tools for Machine Learning.
-Overview:
+
+**Overview**
+
 Predicting tweet sentiments about World Cup 2022 using Databricks, AWS s3, Athena and QuickSight as well as simple ML models. 
-Objective
+
+**Objective**
+
 Exploring DataBricks Community Edition capabilities to wrangle 1 million rows of data and utilize a variety of tools to encourage understandign of their use cases.
 
 
